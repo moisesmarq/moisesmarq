@@ -29,7 +29,7 @@
 <h3 align="left">Tecnologias mais usadas</h3>
 <!--<h3 align="left">GitHub Stats</h3>--> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmarq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmarq&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">GitHub Stats</h3>
 
