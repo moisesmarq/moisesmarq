@@ -17,7 +17,7 @@
         
 <h2 align="left">My TryHackMe badge</h2>
 
-![tryhackme stats](https://raw.githubusercontent.com/<moises.marques>/<moises.marques>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<moisesmarq>/<moisesmarq>/master/assets/thm_propic.png)
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/moises.marques.png" alt="Your Image Badge" />]
 
