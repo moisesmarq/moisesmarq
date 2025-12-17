@@ -11,20 +11,22 @@
     <span>Moises Marques</span>
 </h1>
     <p align="justify">Atuo como Dev Progress Jr. no projeto Santander Auto, uma parceria entre a empresa HDI Seguros e Santander em São Paulo-SP, sou formado como Técnico em Informática pela ETEC da Zona Leste e cursando graduação em Ciência da Computação. Meu contato com a tecnologia começou atráves do meu irmão que montou um computador junto comigo utilizando algumas peças usadas, a ideia inicial era um computador para jogar jogos retrô e nos divertimos, o primeiro sistema que tive contato foi o Windows 98.
-<!--<p align="justify">Front-end Developer from Salvador-BA, Brazil, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+
+<!--
+        <p align="justify">Front-end Developer from Salvador-BA, Brazil, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
 <br>
  Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
-        
-<h2 align="left">My TryHackMe badge</h2>
-
-![tryhackme stats](https://raw.githubusercontent.com/moisesmarq/moisesmarq/main/assets/thm_propic.png)
-
-[<img src="https://tryhackme-badges.s3.amazonaws.com/moises.marques.png" alt="Your Image Badge" />]
-
 
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+
 -->
+        
+<h2 align="left">Meus distintivos</h2>
+
+[![moisesmarq's tryhackme stats](https://raw.githubusercontent.com/moisesmarq/moisesmarq/main/assets/thm_propic.png)][tryhackme]
+
+
 <!--<h3 align="left">Connect with me</h3>-->
 <h3 align="left">Conecte-se comigo</h3>
 
