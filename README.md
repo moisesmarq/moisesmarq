@@ -14,14 +14,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mosis_tech/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/noellepaes)](https://github.com/noellepaes)
 
-### GitHub Streak
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moisesmarq&theme=midnight-purple)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
 ### Top Langs
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moisesmarq&layout=compact&theme=midnight-purple)
 
+### GitHub Streak
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moisesmarq&theme=midnight-purple)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 ### GitHub Stats
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moisesmarq&show_icons=true&theme=midnight-purple)
+
+### WakaTime Stats
+
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=moisesmarq&theme=midnight-purple)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <details align="left">
   <summary>Credits</summary> 
