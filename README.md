@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moisesmarq&layout=compact&theme=midnight-purple)
 
 ### GitHub Stats
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moisesmarq&show_icons=truemidnight-purple)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moisesmarq&show_icons=true&theme=midnight-purple)
 
 <details align="left">
   <summary>Credits</summary> 
