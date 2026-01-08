@@ -25,7 +25,7 @@
 
 ### WakaTime Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=moisesmarq&theme=midnight-purple)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@moisesmarq&theme=midnight-purple)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <details align="left">
   <summary>Credits</summary> 
